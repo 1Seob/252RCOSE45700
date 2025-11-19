@@ -71,3 +71,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Crash / debug
+mono_crash*.json
+My project (1)_BurstDebugInformation_DoNotShip/
+*.log
