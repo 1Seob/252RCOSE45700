@@ -84,6 +84,15 @@ Unity 기반 3D 농구 연습 / 트레이닝 게임 **NBA 4K** 레포지토리�
 
 ---
 
+## Main Scene
+
+- Player : Unity-chan 캐릭터 + Invector 3rd Person Controller
+- Ball : 물리 기반 드리블/슛이 적용되는 농구공
+- Hoop : 림 충돌 판정 및 득점 로직이 연결된 골대
+- UI : TextMesh Pro를 사용한 점수 표시
+
+---
+
 ## 🔧 핵심 스크립트 – BallDribble (요약)
 
 - **공 줍기**
