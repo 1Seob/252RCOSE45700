@@ -1,0 +1,26 @@
+# 기본 텍스트 파일 설정 (LF 통일)
+* text=auto eol=lf
+
+# C# 코드
+*.cs text diff=csharp
+
+# Unity 텍스트 에셋들 (YAML)
+*.unity  text
+*.prefab text
+*.asset  text
+*.mat    text
+*.anim   text
+*.controller text
+
+# 바이너리 에셋
+*.fbx  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.psd  binary
+*.mp3  binary
+*.wav  binary
+
+# 폰트, 기타
+*.ttf  binary
+*.otf  binary
